@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="input_text">Start Typing</string>
+    <string name="result_text">Result</string>
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Калькулятор(ru)</string>
+    <string name="input_text">Начинайте вводить</string>
+    <string name="result_text">Результат</string>
+</resources>

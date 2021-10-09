@@ -1,0 +1,4 @@
+/res/*
+!/res/layout*
+!/res/values*
+/res/values-night
