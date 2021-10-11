@@ -71,3 +71,10 @@ Activity для portable и landscape варианта приложений за
 
 ---
 ![_изображение "./images/example2.jpg" не найдено_](./images/example2.jpg)
+
+---
+
+Upd. Курс на sololern был пройден до первой лабороторной работы, на которой вы сказали о содержалии фамилии в никнейме. Никнейм "Endimion". 
+Проходил в мобильном приложении. Вот [сертификат](https://www.sololearn.com/certificates/course/en/16304960/1160/landscape/png)  https://www.sololearn.com/certificates/course/en/16304960/1160/landscape/png
+
+![_изображение "./images/sololern.jpg" не найдено_](./images/sololern.jpg)
